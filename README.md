@@ -1,5 +1,7 @@
 # WordPress Go-Live Checklist
 
+The WP Go-Live Checklist is intended to work like a pre-flight checklist. It is assumed that you know how to implement its proposed items, so it is not an instruction manual. In time, we may add links from this document to more detailed instructions, but the list will always attempt to remain clean and functional.
+
 ## The obvious
 
 - [ ] Site visible at its desired URL.
