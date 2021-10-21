@@ -10,25 +10,36 @@
 - [ ] Site tagline set - theme settings will often allow control over whether to show or suppress this on the site, but either way, this might appear in site's title depending on the SEO plugin's settings.
 - [ ] Administrator email set to whoever needs to receive important site notifications.
 - [ ] Permalinks set correctly for posts and pages.
+- [ ] Logo set, looks right on desktop, tablet, mobile.
+- [ ] Favicon set
 
-## Non-core but still basic site functionality
+## Non-core, but still basic, site functionality
 - [ ] Site can send (notification) emails. Test this by logging out and going through a 'forgot password' process.
 - [ ] Commenting disabled, if applicable.
 - [ ] Time zone set correctly.
 - [ ] Date format set correctly.
 - [ ] Permalinks set correctly for custom post types.
+- [ ] Contact form works: sends submissions to right email address.
 
 ## Wordpress behaviors to suppress
 
+- [ ] 
+
 ## SEO
 
-- [ ] SEO plugin 
+- [ ] SEO plugin installed and configured
+- [ ] Homepage and interior pages aren't blocked from crawling by 'noindex' tag. Check with...
 - [ ] Tested for errors on Google schema tester - provide link
 
 ## Security
 
-- [ ] No unnecessary users allowed (might be leftovers from development process)
-- [ ] Failed login mitigation
+- [ ] Admin username isn't 'admin'.
+- [ ] Strong admin password set.
+- [ ] No unnecessary users allowed (might be leftovers from development process).
+- [ ] Non-admin users only have permissions as high as their job requires.
+- [ ] Failed login mitigation.
+- [ ] Optionally: admin login address moved.
+- [ ] RPC-XML
 
 ## Performance - basic
 
@@ -48,3 +59,11 @@ Note: the following depend on the jurisdiction under which the site runs and its
 - [ ] "Imprint" page exists and is visibly linked.
 - [ ] If using optional cookies and/or data collection - GDPR notice.
 
+# Tracking
+
+- [ ] Analytics installed and configured.
+- [ ] Google Search Consoled defined.
+
+# Avoiding regrets
+
+- [ ] Site database and files are backed up periodically.
