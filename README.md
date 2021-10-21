@@ -38,6 +38,8 @@ The WP Go-Live Checklist is intended to work like a pre-flight checklist. It is 
 - [ ] SEO plugin installed and configured
 - [ ] Homepage and interior pages aren't blocked from crawling by 'noindex' tag. Check with...
 - [ ] Tested for errors on Google schema tester - provide link
+- [ ] Posts and pages have meta descriptions.
+- [ ] Optionally: Categories and tags have meta descriptions.
 
 ## Security
 
