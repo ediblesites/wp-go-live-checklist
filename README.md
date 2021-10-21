@@ -76,3 +76,4 @@ Note: the following depend on the jurisdiction under which the site runs and its
 ## Avoiding regrets
 
 - [ ] Site database and files are backed up periodically.
+- [ ] External uptime service set up, configured, and working.
