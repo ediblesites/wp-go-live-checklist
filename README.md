@@ -20,10 +20,16 @@
 - [ ] Date format set correctly.
 - [ ] Permalinks set correctly for custom post types.
 - [ ] Contact form works: sends submissions to right email address.
+- [ ] No broken internal links.
 
 ## Wordpress behaviors to suppress
 
-- [ ] 
+
+
+## Ecommerce
+
+- [ ] Product pages look as expected.
+- [ ] (Dummy) purchase works.
 
 ## SEO
 
@@ -59,11 +65,12 @@ Note: the following depend on the jurisdiction under which the site runs and its
 - [ ] "Imprint" page exists and is visibly linked.
 - [ ] If using optional cookies and/or data collection - GDPR notice.
 
-# Tracking
+## Third-party integrations
 
 - [ ] Analytics installed and configured.
 - [ ] Google Search Consoled defined.
+- [ ] Social media links work.
 
-# Avoiding regrets
+## Avoiding regrets
 
 - [ ] Site database and files are backed up periodically.
