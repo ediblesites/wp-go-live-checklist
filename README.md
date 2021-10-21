@@ -7,7 +7,7 @@
 ## WordPress basic settings 
 
 - [ ] Site title set
-- [ ] Site tagline set - decide whether to show or suppress on site, but either way, this might appear in site's title depending on the SEO plugin's settings.
+- [ ] Site tagline set - theme settings will often allow control over whether to show or suppress this on the site, but either way, this might appear in site's title depending on the SEO plugin's settings.
 - [ ] Administrator email set to whoever needs to receive important site notifications.
 - [ ] Permalinks set correctly for posts and pages.
 
