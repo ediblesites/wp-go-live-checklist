@@ -3,8 +3,6 @@
 ## The obvious
 
 - [ ] Site visible at its desired URL.
-- [ ] For jurisdictions that require it - privacy page exists and is visibly linked.
-- [ ] For jurisdictions that require it - "imprint" page exists and is visibly linked.
 
 ## WordPress basic settings 
 
@@ -41,3 +39,12 @@
 ## Performance - advanced
 
 - [ ] CDN
+
+## Compliance
+
+Note: the following depend on the jurisdiction under which the site runs and its requirements
+
+- [ ] Privacy page exists and is visibly linked.
+- [ ] "Imprint" page exists and is visibly linked.
+- [ ] If using optional cookies and/or data collection - GDPR notice.
+
