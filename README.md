@@ -48,6 +48,7 @@ The WP Go-Live Checklist is intended to work like a pre-flight checklist. It is 
 - [ ] Failed login mitigation.
 - [ ] Optionally: admin login address moved.
 - [ ] RPC-XML
+- [ ] File debug.txt not publicly visible.
 
 ## Performance - basic
 
