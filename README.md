@@ -26,7 +26,7 @@ The WP Go-Live Checklist is intended to work like a pre-flight checklist. It is 
 
 ## Wordpress behaviors to suppress
 
-
+- [ ] (Optionally) Disable having a Posts page
 
 ## Ecommerce
 
