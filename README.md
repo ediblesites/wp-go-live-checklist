@@ -2,7 +2,9 @@
 
 ## The obvious
 
-- [ ] Site visible at its desired URL
+- [ ] Site visible at its desired URL.
+- [ ] For jurisdictions that require it - privacy page exists and is visibly linked.
+- [ ] For jurisdictions that require it - "imprint" page exists and is visibly linked.
 
 ## WordPress basic settings 
 
