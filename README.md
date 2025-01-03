@@ -1,4 +1,3 @@
-```markdown
 # WordPress Go-Live Checklist
 
 This checklist serves as a systematic pre-launch verification tool for WordPress websites. While it assumes familiarity with WordPress implementation, each item includes key considerations and common pitfalls to watch for.
